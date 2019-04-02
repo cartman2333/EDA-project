@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ForCPN</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_item">ItemActivity</string>
+    <string name="title_home">开始测试</string>
+    <string name="title_dashboard">结束测试</string>
+    <string name="title_notifications">生成报告</string>
+</resources>
